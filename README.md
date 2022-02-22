@@ -1,4 +1,4 @@
-### Protail--Moringa week 1 pr0ject
+### Protail --Moringa week 1 project
 <a name="general-info"></a>
 
 
